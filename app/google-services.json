@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532527399242",
+    "project_id": "ronin-honor",
+    "storage_bucket": "ronin-honor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532527399242:android:3c73e17243b396a4b281b3",
+        "android_client_info": {
+          "package_name": "rh.won.roninhonor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbuvwGkjit880X7N50WQ7oLEb_t7egN-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
